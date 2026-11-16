@@ -1,0 +1,4 @@
+.claude/
+.cursor/
+.vercel/
+node_modules/
